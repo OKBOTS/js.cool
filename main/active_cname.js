@@ -49,6 +49,7 @@ module.exports = {
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
   'dara': 'idara17.github.io',
+  'suu': 'minolink.onrender.com',
   'dataloader': 'wshow.github.io',
   'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
   'regexper': 'wshow.github.io',
